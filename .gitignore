@@ -1,3 +1,6 @@
 
 
 *.pickle
+*.gif
+gifs/*.gif
+gifs/.ipynb_checkpoints/*.gif
