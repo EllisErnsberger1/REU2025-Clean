@@ -1,0 +1,16 @@
+name: REU2025_py39
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - ipykernel
+    - sunpy[all]
+    - reproject
+    - sunpy-soar
+    - ipywidgets
+    - astroquery
+    - jupyterlab
+    - irispy-lmsal\
