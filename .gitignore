@@ -5,9 +5,6 @@ gifs/.ipynb_checkpoints/
 # Ignore pickle files
 *.pickle
 
-
-gifs/eui_and_iris.gif
-
 # Ignore only new GIFs (not already tracked)
 *.gif
 !gifs/*.gif
