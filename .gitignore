@@ -7,4 +7,7 @@ gifs/.ipynb_checkpoints/
 
 
 gifs/eui_and_iris.gif
+
+# Ignore only new GIFs (not already tracked)
 *.gif
+!gifs/*.gif
